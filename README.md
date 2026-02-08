@@ -11,3 +11,6 @@ price
 link
 image
 description
+
+output is SEARCHED_WORD.json 
+change in config.py
