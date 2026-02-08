@@ -1,0 +1,3 @@
+CHECK_EVERY = 0
+SEARCH_WORD = "hp laptop"
+MAX_ITEMS = 100
