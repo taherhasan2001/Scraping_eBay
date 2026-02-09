@@ -94,8 +94,8 @@ Scraping eBay may be subject to their Terms of Service.
 ![eBay search results](screenshots/parralel.png)
 
 ### Part 1 Output (data.json)
-![Part 1 JSON output](screenshots/data.json.png)
+![Part 1 JSON output](screenshots/solo.png)
 
 ### Final Enriched Output
-![Final enriched JSON](screenshots/result.png)
+![Final enriched JSON](screenshots/results.png)
 
