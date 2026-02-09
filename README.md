@@ -88,9 +88,14 @@ For educational and personal use only.\
 Scraping eBay may be subject to their Terms of Service.
 
 ------------------------------------------------------------------------
+## 📸 Screenshots
 
-## 💡 Future Improvements
+### eBay Search Results
+![eBay search results](screenshots/parralel.png)
 
--   Pagination
--   Price normalization
--   CSV export
+### Part 1 Output (data.json)
+![Part 1 JSON output](screenshots/data.json.png)
+
+### Final Enriched Output
+![Final enriched JSON](screenshots/result.png)
+
