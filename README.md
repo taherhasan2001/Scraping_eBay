@@ -90,12 +90,12 @@ Scraping eBay may be subject to their Terms of Service.
 ------------------------------------------------------------------------
 ## 📸 Screenshots
 
-### eBay Search Results
+### Part 2: Parallel processing (4 processes)
 ![Part 2: Parallel processing (4 processes)](screenshots/parralel.png)
 
-### Part 1 Output (data.json)
-![Part 2 only one process](screenshots/solo.png)
+### Part 2: 1 processor
+![Part 2: 1 processor ](screenshots/solo.png)
 
-### Final Enriched Output
-![Final enriched JSON, You can send it to AI and ask for top 10](screenshots/results.png)
+### Final enriched JSON, You can send the file to AI and ask for TOP 10
+![Final enriched JSON, You can send the file to AI and ask for TOP 10](screenshots/results.png)
 
