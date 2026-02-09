@@ -1,5 +1,19 @@
 # 🛒 eBay Scraper & Listing Enricher
 
+## 📖 Story
+
+I was wasting hours searching eBay for the best laptop deal for my sister.  
+I kept jumping between brands, checking CPU, RAM, storage, GPU, and prices over and over again.
+
+Eventually, I realized there had to be a better way.
+
+So I built this project. It collects hundreds of laptop listings per brand and lets AI handle the hard part — comparing, ranking, and scoring each option from **1 to 10**.
+
+In the end, finding the best deal became simple, fast, and stress-free.
+
+
+## 🧠 Let’s Explain the Idea
+
 A two-stage **Python eBay scraping project** built with **SeleniumBase**
 and **BeautifulSoup**.
 
